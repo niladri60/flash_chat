@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510889729565",
+    "project_id": "flash-chat-70580",
+    "storage_bucket": "flash-chat-70580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510889729565:android:639050e33f2cfd9606f0f4",
+        "android_client_info": {
+          "package_name": "com.niladri.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510889729565-ns8gt2rhfnrrs5v0ua1do797ktet1ofe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdFoA5G_P99ZV8dAVoRaspoZjmgcxiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510889729565-ns8gt2rhfnrrs5v0ua1do797ktet1ofe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
